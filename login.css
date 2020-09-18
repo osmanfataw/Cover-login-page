@@ -1,0 +1,56 @@
+.jumbotron{
+    height: 600px;
+    width: 400px;
+    background-color: lightblue;
+    background-image: url("image1.jpeg");
+    position: relative;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+    
+
+}
+.container{
+    display: flex;
+    margin-left: 270px;
+    color: black;
+   height: 400px;
+   width: 500px;
+
+    
+}
+h3{
+    font-style: inherit;
+    font-display: inherit;
+    font-size: 40px;
+    
+}
+.signup{
+    background-color:white;
+    height: 600px;
+    width: 400px;
+    margin-left: 0px;
+    border-radius: 20px;
+    
+}
+input{
+    margin-left: 10px;
+    height: 30px;
+    width: 250px;
+    border-left: unset;
+    border-top: unset;
+    border-right: unset;
+    background-color: transparent;
+}
+.design{
+    margin-left: 10px;
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: unset;
+    background-color: blue;
+
+}
+body{
+    background-color: orange;
+}
